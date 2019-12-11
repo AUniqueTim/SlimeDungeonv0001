@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: fb13b05588157b042978761aab40d7c8
+  - enabled: 1
+    path: Assets/Scenes/Turtorial.unity
+    guid: 3216386bf89e9c84c8df6fa6d38defa1
+  - enabled: 1
+    path: Assets/Scenes/MainLevel_Gym.unity
+    guid: 392f96c239e917c45a51c9f05bb7cdc4
+  - enabled: 0
+    path: Assets/Scenes/MainLevel_Gym_backup.unity
+    guid: f1a83dbaef465a944aa27749af80515c
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: 101b05b8d0e30094d84353a8d5c3e4c1
+  m_configObjects: {}
